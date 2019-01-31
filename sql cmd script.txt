@@ -1,0 +1,3 @@
+sqlcmd -S 10.16.0.11 -U sa -P cohen@123 -i DB1.sql -o DB1result.txt
+
+sqlcmd -S VINOTHRAJ -U sa -P Techunison@123!# -i script.sql -o DB1result.txt
